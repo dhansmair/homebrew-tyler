@@ -28,7 +28,7 @@ class Tyler < Formula
       It copies Tyler.app into ~/Applications and asks for the Accessibility permission
       (System Settings > Privacy & Security > Accessibility).
 
-      After `brew upgrade --fetch-HEAD tyler`, run `tyler restart`. Each build is signed ad hoc, which
+      After `brew upgrade tyler`, run `tyler restart`. Each build is signed ad hoc, which
       macOS treats as a new app, so it asks for the permission again.
 
       Before `brew uninstall tyler`, run `tyler stop`, then remove ~/Applications/Tyler.app
