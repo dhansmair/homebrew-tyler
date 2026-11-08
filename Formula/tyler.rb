@@ -1,8 +1,8 @@
 class Tyler < Formula
   desc "Tiling window manager for macOS with workspaces side by side"
   homepage "https://github.com/dhansmair/tyler"
-  url "https://github.com/dhansmair/tyler/archive/refs/tags/v0.3.0.tar.gz"
-  sha256 "a87d3af93fa87c28bcf50d5f72ed2d6350c39058ee37cd0e9f210295d4cca100"
+  url "https://github.com/dhansmair/tyler/archive/refs/tags/v0.4.0.tar.gz"
+  sha256 "c832703d8cdc419beb049ee02659aecd3361c5c89f3e4176369d51c7ceaeeacf"
   license "MIT"
   head "https://github.com/dhansmair/tyler.git", branch: "main"
 
